@@ -135,7 +135,7 @@ class MongoRepository(Generic[_BM]):
         if not results:
             return [], None
 
-        new_cursor = results[-1].__getattribute__(cursor_field)
+        new_cursor = getattr(results[-1], cursor_field)
         return results, new_cursor
 
     @staticmethod
