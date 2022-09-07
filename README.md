@@ -20,6 +20,9 @@
 - Netflix Notifications:
   - Сервис для отправки уведомлений
   - https://github.com/ReznikovRoman/netflix-notifications
+- Netflix Voice Assistant:
+  - Голосовой ассистент Netflix
+  - https://github.com/ReznikovRoman/netflix-voice-assistant
 
 ## Настройка и запуск
 docker-compose содержат контейнеры:
