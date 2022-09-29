@@ -11,6 +11,7 @@
 - Netflix Movies API:
   - АПИ фильмов
   - https://github.com/ReznikovRoman/netflix-movies-api
+    - Python клиент: https://github.com/ReznikovRoman/netflix-movies-client
 - Netflix Auth API:
   - Сервис авторизации - управление пользователями и ролями
   - https://github.com/ReznikovRoman/netflix-auth-api
